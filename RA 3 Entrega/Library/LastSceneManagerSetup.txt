@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/RA_P3.unity
+  isLoaded: 1
+  isActive: 1
